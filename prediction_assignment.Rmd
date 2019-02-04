@@ -1,7 +1,7 @@
 ---
 title: "Prediction Assignment - Practical Machine Learning Coursera"
-author: "Isaac Ben-Akiva"
-date: "5 February 2016"
+author: "Abhijeet Sinha"
+date: "3 Feb 2019"
 output: html_document
 ---
 
